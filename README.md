@@ -1,5 +1,27 @@
 # CosmicCoffeeCo
 
+A simple coffee app system made with simple gui
+
+Application features
+
+-->sign up button
+
+--> login button
+
+--> simultaneous date/time
+
+--> product selection, customization
+
+--> clear order screen
+
+--> New order
+
+--> pay
+
+-->star button
+
+The customer can earn stars by ordering coffee, then spend the earned stars, like starbucks app
+
 ![1](https://user-images.githubusercontent.com/48446413/104301275-7e166c80-54d8-11eb-948b-548045191498.jpeg)
 ![2](https://user-images.githubusercontent.com/48446413/104301315-8ec6e280-54d8-11eb-840c-7d28b0760ab3.jpeg)
 ![3](https://user-images.githubusercontent.com/48446413/104301325-91c1d300-54d8-11eb-9d52-1a5f68e1104c.jpeg)
